@@ -1,8 +1,0 @@
-const firebaseConfig = {
-  apiKey: "AIzaSyBmOqHyAdGHNV69N6xta10Fd53QBu1ED6M",
-  authDomain: "videosharing-9c5f9.firebaseapp.com",
-  projectId: "videosharing-9c5f9",
-  storageBucket: "videosharing-9c5f9.appspot.com",
-  messagingSenderId: "808997894288",
-  appId: "1:808997894288:web:5ad0426306ad1966274015"
-};

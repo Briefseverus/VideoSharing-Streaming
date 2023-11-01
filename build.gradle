@@ -30,11 +30,13 @@ dependencies {
 
 implementation 'org.springframework.boot:spring-boot-starter-webflux'
 
-implementation 'com.google.firebase:firebase-admin:9.2.0'
+implementation 'com.google.firebase:firebase-admin:6.8.1'
 
-implementation 'com.google.firebase:firebase-storage:18.0.0'
+implementation 'com.google.firebase:firebase-storage:19.1.1'
+compileOnly 'org.projectlombok:lombok:1.18.30'
 
 developmentOnly 'org.springframework.boot:spring-boot-devtools'
+annotationProcessor 'org.projectlombok:lombok:1.18.30'
 
 testImplementation 'org.springframework.boot:spring-boot-starter-test'
 
